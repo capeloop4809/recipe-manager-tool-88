@@ -1,2 +1,9 @@
-# recipe-manager-tool-88
-A simple recipe manager project
+# Recipe Manager
+
+A simple recipe manager project.
+\n
+## Getting Started
+
+```bash
+python app.py
+```
